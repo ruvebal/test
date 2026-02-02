@@ -13,6 +13,8 @@
 
 <!-- Describe your project in 2-3 sentences -->
 
+
+
 ### Who is it for?
 
 <!-- Define your target audience -->
@@ -34,18 +36,18 @@
 
 ### Accessibility Goals
 
-- [ ] Semantic HTML structure
-- [ ] Proper heading hierarchy
-- [ ] Alt text for images
-- [ ] Keyboard navigation support
-- [ ] Color contrast compliance
-- [ ] Screen reader compatibility
+- [X] Semantic HTML structure
+- [X] Proper heading hierarchy
+- [X] Alt text for images
+- [X] Keyboard navigation support
+- [X] Color contrast compliance
+- [X] Screen reader compatibility
 
 ### Responsive Design Strategy
 
-- [ ] Mobile-first approach
-- [ ] Flexible grid system
-- [ ] Scalable typography
+- [X] Desktop-first approach
+- [x] Flexible grid system
+- [X] Scalable typography
 - [ ] Optimized images
 - [ ] Touch-friendly interactions
 
@@ -55,9 +57,9 @@
 
 ### Key Sections/Pages
 
-1.
-2.
-3.
+1. Portfolio gallery (grid with cards + hero modules)
+2. Project detail pages (hero, process images, role & description)
+3. About / Contact
 
 ### Content Sources
 
@@ -89,6 +91,9 @@
 
 <!-- List 2-3 websites or designs that inspire your approach -->
 
+- https://www.sileent.com/
+- https://griflan.com/
+- https://www.chanel.com/es/joyeria/coco-crush-encuentros/
 ---
 
 ## Success Metrics
@@ -121,3 +126,12 @@
 ---
 
 _This brief will evolve as your project develops. Update it as needed and reference it in your weekly commits._
+
+
+
+<!-- Added decisions -->
+
+### Diseño y contenido — decisiones concretas
+
+- Layout: Implementar un CSS Grid responsivo como retícula base con cards de relación de aspecto fija para el catálogo y módulos full-bleed para 2-3 proyectos destacados en la home. Esto favorece la consistencia visual y permite jerarquizar trabajos importantes sin romper la retícula principal.
+- Contenido: Cada tarjeta mostrará título, año y 1-2 tags (rol/técnica). La página de detalle incluirá un hero optimizado (WebP/AVIF), 3 imágenes de proceso, un párrafo breve (50-80 palabras) y botones de CTA claros (contacto/descargar case study). Estas decisiones apoyan los objetivos de accesibilidad y la estrategia desktop-first.

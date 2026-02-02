@@ -223,4 +223,20 @@ _Example: Master CSS Grid for complex layouts, implement smooth scroll animation
 
 ---
 
+## Análisis adicional: ejemplos revisados
+
+Sitios analizados:
+
+- https://www.sileent.com/
+- https://griflan.com/
+- https://www.chanel.com/es/joyeria/coco-crush-encuentros/
+
+Patrones transferibles (sin copiar):
+
+- Tarjetas con relación de aspecto fija y placeholder neutro: mejoran la consistencia visual y facilitan el lazy-loading coordinado con tokens de espacio y color.
+- Grid editorial con módulos de ancho variable: permite jerarquizar proyectos destacados sin romper la retícula principal.
+- Micro‑movimientos sutiles en hover/entrada que respetan prefers-reduced-motion: añaden sensación de vida sin sacrificar accesibilidad ni performance.
+
+---
+
 **Remember**: Inspiration is about finding what resonates with you and your project goals. Don't copy—synthesize ideas into something uniquely yours!
