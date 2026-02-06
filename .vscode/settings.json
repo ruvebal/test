@@ -1,0 +1,14 @@
+{
+  "liveServer.settings.port": 5501,
+
+  // Make Prettier the default formatter and format on save
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  // Example Prettier options (optional)
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.semi": true
+}
