@@ -13,8 +13,6 @@
 
 <!-- Describe your project in 2-3 sentences -->
 
-
-
 ### Who is it for?
 
 <!-- Define your target audience -->
@@ -32,22 +30,22 @@
 - [ ] HTML5 (semantic markup)
 - [ ] CSS3 (responsive design)
 - [ ] JavaScript (if applicable)
-- [ ] Other: ****\_\_\_****
+- [ ] Other: \***\*\_\_\_\*\***
 
 ### Accessibility Goals
 
-- [X] Semantic HTML structure
-- [X] Proper heading hierarchy
-- [X] Alt text for images
-- [X] Keyboard navigation support
-- [X] Color contrast compliance
-- [X] Screen reader compatibility
+- [x] Semantic HTML structure
+- [x] Proper heading hierarchy
+- [x] Alt text for images
+- [x] Keyboard navigation support
+- [x] Color contrast compliance
+- [x] Screen reader compatibility
 
 ### Responsive Design Strategy
 
-- [X] Desktop-first approach
+- [x] Desktop-first approach
 - [x] Flexible grid system
-- [X] Scalable typography
+- [x] Scalable typography
 - [ ] Optimized images
 - [ ] Touch-friendly interactions
 
@@ -87,6 +85,10 @@
 
 <!-- What fonts/typeface approach will you use? -->
 
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playwrite+IN+Guides&display=swap" rel="stylesheet">
+
 ### Inspiration/References
 
 <!-- List 2-3 websites or designs that inspire your approach -->
@@ -94,6 +96,7 @@
 - https://www.sileent.com/
 - https://griflan.com/
 - https://www.chanel.com/es/joyeria/coco-crush-encuentros/
+
 ---
 
 ## Success Metrics
@@ -126,8 +129,6 @@
 ---
 
 _This brief will evolve as your project develops. Update it as needed and reference it in your weekly commits._
-
-
 
 <!-- Added decisions -->
 
